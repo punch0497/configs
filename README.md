@@ -1,2 +1,2 @@
 # configs
-My personal configurations for various things
+My personal configurations for various things in Linux
